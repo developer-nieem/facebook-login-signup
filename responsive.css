@@ -1,0 +1,293 @@
+@media all and (min-width: 768px) and ( max-width: 992px ) {
+	.container{
+	width:800px;
+	margin:auto;
+}
+.logo{
+	width:40%;
+	float:left;
+	padding-top:15px;
+}
+.login-area{
+	width:60%;
+	float:left;
+}
+	
+	.body-left {
+	  width:50%;
+	  float:left;
+}
+
+
+.body-right{
+	width:50%;
+	float:left;
+}
+.body-left h2{
+	color:#0e385f;
+	margin-top:44px;
+	font-size:20px;
+	width:380px;
+}
+.body-left img{
+	width:380px;
+}
+
+}
+
+
+
+
+
+
+
+
+@media all and (min-width: 500px) and ( max-width: 767px ) {
+	
+	.facebook-footer {
+		display: none;
+	}
+	
+	.facebook-body   {
+		display: none;
+	}
+	
+	.facebook-header {
+		display: none;
+	}
+	*{
+		font-family: sans-serif;
+	}
+	
+	.facebook-mobile-design {
+		display: block;
+		
+	}
+	.mobile-header{
+		background:blue;
+		padding:10px 3px;
+	}
+	.mobile-header:after{
+		content:' ';
+		display:block;
+		clear:both;
+	}
+	.mibile-logo{
+		float:left;
+		
+	}
+	.mibile-logo img{
+		width:77px;
+		height:16px;
+	}
+	.create-account{
+		float:right;
+	}
+	.create-account a{
+		color:#fff;
+		background:#69a74e;
+		border:1px solid #4476e8;
+		padding:4px 3px;
+		border-radius:3px;
+	}
+	/* HEADER STOP*/
+    .body-all{
+		background-color: #e6f2ff;
+		
+	}
+	.paragraph{
+		
+		color: #444950;
+		font-size: 12px;
+		line-height: 14px;
+		padding: 10px 12px;
+		border-bottom:1px solid #6eadff;
+	}
+	.paragraph p a:hover{
+		text-decoration:underline;
+	}
+	.login-area-mobile{
+		margin:5px;
+	}
+	.login-area-mobile h3{
+		color:#8d949e;
+		font-weight:bold;
+		padding:4px 0px;
+	}
+	.login-area-mobile input{
+		padding:12px 8px;
+		width:100%;
+		border:solid 1px #999;
+	}
+	
+	.sign-up-mobile input{
+		background:#4267b2;
+		margin-top:8px;
+		font-size:14px;
+		color:#fff;
+		border:1px solid #365899;
+		font-weight:bold;
+		border-radius:3px;
+	}
+	.sign-up-mobile input:hover{
+		background:#465e91
+	}
+	.br	{
+		white-space: nowrap;
+		width:95%;
+		text-align:center;
+		padding-top:8px;
+	}  
+	.create-account-body {
+		text-align:center;
+		display:block;
+	}
+	.create-account-body a{
+	   color:#fff;
+		background:#42b72a;
+		border:1px solid #4476e8;
+		padding:10px 3px;
+		border-radius:1px;
+		margin:19px 141px;
+		display:block;
+		}
+		.forget {
+			text-align:center;
+			height:102px;
+			}
+		.forget a{
+			font-size:16px;
+			}
+			.forget a:hover{
+				background:blue;
+				color:#fff;
+				}
+}
+
+
+
+
+
+
+
+@media all and (min-width: 0px) and ( max-width: 499px ) {
+	
+	.facebook-footer {
+		display: none;
+	}
+	
+	.facebook-body   {
+		display: none;
+	}
+	
+	.facebook-header {
+		display: none;
+	}
+	*{
+		font-family: sans-serif;
+	}
+	
+	.facebook-mobile-design {
+		display: block;
+		
+	}
+	.mobile-header{
+		background:blue;
+		padding:10px 3px;
+	}
+	.mobile-header:after{
+		content:' ';
+		display:block;
+		clear:both;
+	}
+	.mibile-logo{
+		float:left;
+		
+	}
+	.mibile-logo img{
+		width:77px;
+		height:16px;
+	}
+	.create-account{
+		float:right;
+	}
+	.create-account a{
+		color:#fff;
+		background:#69a74e;
+		border:1px solid #4476e8;
+		padding:4px 3px;
+		border-radius:3px;
+	}
+	/* HEADER STOP*/
+    .body-all{
+		background-color: #e6f2ff;
+		
+	}
+	.paragraph{
+		
+		color: #444950;
+		font-size: 12px;
+		line-height: 14px;
+		padding: 10px 12px;
+		border-bottom:1px solid #6eadff;
+	}
+	.paragraph p a:hover{
+		text-decoration:underline;
+	}
+	.login-area-mobile{
+		margin:5px;
+	}
+	.login-area-mobile h3{
+		color:#8d949e;
+		font-weight:bold;
+		padding:4px 0px;
+	}
+	.login-area-mobile input{
+		padding:12px 8px;
+		width:100%;
+		border:solid 1px #999;
+	}
+	
+	.sign-up-mobile input{
+		background:#4267b2;
+		margin-top:8px;
+		font-size:14px;
+		color:#fff;
+		border:1px solid #365899;
+		font-weight:bold;
+		border-radius:3px;
+	}
+	.sign-up-mobile input:hover{
+		background:#465e91
+	}
+	.br	{
+		white-space: nowrap;
+		width:95%;
+		text-align:center;
+		padding-top:8px;
+	}  
+	.create-account-body {
+		text-align:center;
+		display:block;
+	}
+	.create-account-body a{
+	   color:#fff;
+		background:#42b72a;
+		border:1px solid #4476e8;
+		padding:10px 3px;
+		border-radius:1px;
+		margin:19px 141px;
+		display:block;
+		}
+		.forget {
+			text-align:center;
+			height:102px;
+			}
+		.forget a{
+			font-size:16px;
+			}
+			.forget a:hover{
+				background:blue;
+				color:#fff;
+				}
+}
